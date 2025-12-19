@@ -1,0 +1,5 @@
+{
+  "name": "Alite Agent Builder",
+  "description": "A no-code AI agent builder for healthcare clinics to automate scheduling, refills, and triage. Features a visual flow builder, analytics dashboard, and real-time AI simulation.",
+  "requestFramePermissions": []
+}

@@ -232,7 +232,7 @@ const AgentSettingsPanel: React.FC<{
     { id: 'brain', label: 'Intelligence & RAG', icon: Cpu },
     { id: 'voice', label: 'Voice (TTS)', icon: Volume2 },
     { id: 'ear', label: 'Hearing (STT)', icon: Ear },
-    { id: 'connect', label: 'Connectivity', icon: Network },
+   //  { id: 'connect', label: 'Connectivity', icon: Network },
   ];
 
   return (
